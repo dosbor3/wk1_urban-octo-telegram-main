@@ -8,7 +8,7 @@ A website that offers marketing strategies that targets your online customer bas
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://dosbor3.github.io/wk1_urban-octo-telegram-main/
 
 ## Contribution
 Made with ❤️ by Danielle James
